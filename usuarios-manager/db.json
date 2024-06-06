@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": "b54c",
+      "nome": "Carlos Henrique Vieira da Silva",
+      "login": "carlosunivas",
+      "email": "carloshenrique@univas.edu.br",
+      "telefone": "(35) 99100-0080",
+      "cargo": "",
+      "tipo": "aluno",
+      "ativo": 1
+    },
+    {
+      "id": "7ec1",
+      "nome": "Jose Carlos",
+      "login": "Jcarlos",
+      "email": "Jcarlos@univas.edu.br",
+      "telefone": "(35) 99999-9999",
+      "cargo": "policial aposentado",
+      "tipo": "policial",
+      "ativo": 1
+    }
+  ],
+  "repositorios": [],
+  "seguidores": []
+}
